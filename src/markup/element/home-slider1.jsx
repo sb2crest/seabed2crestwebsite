@@ -41,7 +41,12 @@ class HomeSlider1 extends Component {
   render() {
     return (
       <>
-        <Slider className="slider-wrapper"  >
+        <Slider className="slider-wrapper" 
+        autoplay={false}
+        infinite={false}
+        slidesToShow={1}
+        slidesToScroll={1}
+        >
           {slides.map((slide, index) => (
             <div
               key={index}
