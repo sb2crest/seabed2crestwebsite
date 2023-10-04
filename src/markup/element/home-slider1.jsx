@@ -78,9 +78,7 @@ class HomeSlider1 extends Component {
                       <span className="btn-title">Contact Us</span>
                     </Link>
                   )}
-                  <Link to={"/services-2"} className="theme-btn btn-style-two">
-                    <span className="btn-title">{slide.btnLearn}</span>
-                  </Link>
+                  
                 </div>
               </div>
             </div>
