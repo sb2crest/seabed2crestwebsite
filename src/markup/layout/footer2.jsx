@@ -42,7 +42,7 @@ class Footer2 extends Component {
                           </a>
                         </li>
                         <li>
-                          <a href="">
+                          <a href="https://www.linkedin.com/company/seabed2crest/">
                             <span class="fab fa-linkedin-in"></span>
                           </a>
                         </li>

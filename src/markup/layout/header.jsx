@@ -135,7 +135,7 @@ class Header extends Component {
                                     <ul class="social-links clearfix">
                                         <li><a href='https://www.facebook.com/profile.php?id=61550736875585&mibextid=ZbWKwL'><span class="fab fa-facebook-f"></span></a></li>
                                         <li><a href=''><i class="fa-brands fa-x-twitter"></i></a></li>
-                                        <li><a href=''><span class="fab fa-linkedin-in"></span></a></li>
+                                        <li><a href='https://www.linkedin.com/company/seabed2crest/'><span class="fab fa-linkedin-in"></span></a></li>
                                         <li><a href='https://instagram.com/seabed2crest?igshid=NjIwNzIyMDk2Mg=='><span class="fab fa-instagram"></span></a></li>
                                         <li><a href='https://www.threads.net/@seabed2crest'><i class="fa-brands fa-threads"></i></a></li>
                                         
@@ -174,7 +174,7 @@ class Header extends Component {
                                 <ul class="clearfix">
                                 <li><a href='https://www.facebook.com/profile.php?id=61550736875585&mibextid=ZbWKwL'><span class="fab fa-facebook-f"></span></a></li>
                                         <li><a href=''><i class="fa-brands fa-x-twitter"></i></a></li>
-                                        <li><a href=''><span class="fab fa-linkedin-in"></span></a></li>
+                                        <li><a href='https://www.linkedin.com/company/seabed2crest/'><span class="fab fa-linkedin-in"></span></a></li>
                                         <li><a href='https://instagram.com/seabed2crest?igshid=NjIwNzIyMDk2Mg=='><span class="fab fa-instagram"></span></a></li>
                                         <li><a href='https://www.threads.net/@seabed2crest'><i class="fa-brands fa-threads"></i></a></li>
                                         
