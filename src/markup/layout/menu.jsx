@@ -2,6 +2,10 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
 
+const scrollToTop = () => {
+    window.scrollTo({ top: 400, behavior: "smooth" });
+  };
+
 
 class Menu extends Component {
 
@@ -32,11 +36,11 @@ class Menu extends Component {
                                 </li>
                             </ul> */}
                         </li>
-                        <li><Link to={'/about'}>About Us</Link></li>
+                        <li><Link to={'/about'} onClick={scrollToTop}>About Us</Link></li>
                         <li class="dropdown"><Link to={'/services-2'}>Services</Link>
                             <ul>
-                                <li><Link to={'/services-1'}>What We Do</Link></li>
-                                <li><Link to={'/services-2'}>Our Services</Link></li>
+                                <li><Link to={'/services-1'} onClick={scrollToTop}>What We Do</Link></li>
+                                <li><Link to={'/services-2'} onClick={scrollToTop}>Our Services</Link></li>
                                 {/* <li><Link to={'/portfolio-1'}>Our Works</Link></li> */}
                             </ul>
                         </li>
@@ -75,7 +79,7 @@ class Menu extends Component {
                             </ul> */}
                         {/* </li> */}
 
-                        <li><Link to={'/contact'}>Contact Us</Link></li>
+                        <li><Link to={'/contact'} onClick={scrollToTop}>Contact Us</Link></li>
                     </ul>
                 </div>
 

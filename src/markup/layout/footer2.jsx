@@ -25,8 +25,9 @@ class Footer2 extends Component {
                         </Link>
                       </div>
                       <div class="text">
-                        Discover the limitless possibilities with SeaBed2Crest, where innovation meets excellence. Join us on a
-                        journey of transformation and success in the digital age
+                        Discover the limitless possibilities with SeaBed2Crest,
+                        where innovation meets excellence. Join us on a journey
+                        of transformation and success in the digital age.
                       </div>
                       <ul class="social-links clearfix">
                         <li>

@@ -8,12 +8,8 @@ import { css } from '@emotion/react'; // Updated import statement
 const options = [
 
     
-    { value: 'English', label: 'English' },
-    { value: 'French', label: 'French' },
-    { value: 'Spanish', label: 'Spanish' },
-    { value: 'Bengli', label: 'Bengli' }
+    { value: 'English', label: 'English' }
 ]
-
 const customStyles = {
     option: (provided, state) => ({
       ...provided,
