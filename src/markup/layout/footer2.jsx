@@ -187,7 +187,7 @@ class Footer2 extends Component {
                           </span>
                           <span className="footer-margin">
                             102, 1st floor, AjjeGowdru Nilaya, 7th A Cross Rd,
-                            Yelahanka Satellite Town, Yelahanka, Bengaluru,
+                            Yelahanka Satellite Town, Bengaluru,
                             Karnataka 560064
                           </span>
                         </p>
