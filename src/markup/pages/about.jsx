@@ -91,7 +91,7 @@ class About extends Component {
                 <div class="image-wrapper">
                   <div class="image-one">
                     <img
-                      src={require("../../assets/images/resource/image-10.jpg")}
+                      src={require("../../assets/images/ceo.jpeg")}
                       alt=""
                     />
                   </div>
