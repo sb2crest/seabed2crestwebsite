@@ -5,21 +5,19 @@ import Menu from './menu'
 import { css } from '@emotion/react'; // Updated import statement
 
 
-const options = [
-
-    
-    { value: 'English', label: 'English' }
-]
-const customStyles = {
-    option: (provided, state) => ({
-      ...provided,
-      padding: '10px',
-      backgroundImage: state.isSelected
-        ? 'linear-gradient(90deg, rgba(206,142,14,1) 20%, rgba(192,40,42,1) 100%)'
-        : 'none', // Set a background image for selected options
-      color: state.isSelected ? 'white' : 'black',
-    }),
-  };
+// const options = [
+//     { value: 'English', label: 'English' }
+// ]
+// const customStyles = {
+//     option: (provided, state) => ({
+//       ...provided,
+//       padding: '10px',
+//       backgroundImage: state.isSelected
+//         ? 'linear-gradient(90deg, rgba(206,142,14,1) 20%, rgba(192,40,42,1) 100%)'
+//         : 'none', // Set a background image for selected options
+//       color: state.isSelected ? 'white' : 'black',
+//     }),
+//   };
 
   
   
@@ -83,10 +81,11 @@ class Header extends Component {
                                 <div class="top-middile">
                                     <div class="language">
                                         <span>Language:</span>
-                                        <form action="#" class="language-switcher">
+                                        <span>English</span>
+                                        {/* <form action="#" class="language-switcher">
                                         <Select options={options} styles={customStyles} />
 
-                                        </form>
+                                        </form> */}
                                     </div>
                                     <div class="contact-info">
                                         <div class="single-info">
