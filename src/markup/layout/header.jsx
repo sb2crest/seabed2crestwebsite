@@ -93,7 +93,7 @@ class Header extends Component {
                                             <div class="icon-box"><i class="flaticon-call-1"></i></div>
                                             <div class="text">Phone Number</div>
 
-                                            <h4><Link to={'/tel:+91 7349368311'}>+91 7349368322</Link></h4>
+                                            <h4><Link to={'/tel:+91 7349368311'}>+91 7349368311</Link></h4>
                                         </div>
                                         <div class="single-info">
                                             <div class="icon-box"><i class="flaticon-email-4"></i></div>
