@@ -186,9 +186,9 @@ class Footer2 extends Component {
                             <i class="fa-solid fa-location-dot"></i>
                           </span>
                           <span className="footer-margin">
-                            102, 1st floor, AjjeGowdru Nilaya, 7th A Cross Rd,
-                            Yelahanka Satellite Town, Bengaluru,
-                            Karnataka 560064
+                            #584 near Suryodaya School, Hesaraghatta hobli,
+                            Rajanukunte, Yelahanka Taluk Bangalore North
+                            Karnataka - 560064
                           </span>
                         </p>
                       </div>
