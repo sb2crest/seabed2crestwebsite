@@ -45,6 +45,7 @@ class HomeSlider1 extends Component {
         autoplay={false}
         slidesToShow={1}
         slidesToScroll={1}
+        touchDisabled={true}
         >
           {slides.map((slide, index) => (
             <div

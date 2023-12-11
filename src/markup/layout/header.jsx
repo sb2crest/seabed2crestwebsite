@@ -139,8 +139,6 @@ class Header extends Component {
                             </div>
                         </div>
                     </div>
-
-
                     <div class={scrolled ? "sticky-header animated slideInDown" : "sticky-header"}>
                         <div class="auto-container clearfix">
 
