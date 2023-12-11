@@ -265,9 +265,10 @@
 		padding: 0 35px;
 	}
 	.slider-content .inner h2{
-		font-size: 55px;
+		font-size: 45px;	
 		letter-spacing: -1px;
 		padding-left: 20px;
+		padding-bottom: 20px;
 	}
 	.slider-content .inner h1{
 		font-size: 20px;

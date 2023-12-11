@@ -36,7 +36,7 @@ class Footer2 extends Component {
                           </a>
                         </li>
                         <li>
-                          <a href="">
+                          <a href="https://twitter.com/Seabed2Crest">
                             <span>
                               <i class="fa-brands fa-x-twitter"></i>
                             </span>

@@ -687,8 +687,8 @@ class Index extends Component {
               <h2>Leadership Team</h2>
             </div>
             <div class="row"> */}
-              {/* <!-- Team Block One --> */}
-              {/* <div
+        {/* <!-- Team Block One --> */}
+        {/* <div
                 class="col-lg-4 team-block-one wow fadeInUp"
                 data-wow-delay="200ms"
                 data-wow-duration="1200ms"
@@ -710,8 +710,8 @@ class Index extends Component {
                   </div>
                 </div>
               </div> */}
-              {/* <!-- Team Block One --> */}
-              {/* <div
+        {/* <!-- Team Block One --> */}
+        {/* <div
                 class="col-lg-4 team-block-one wow fadeInUp"
                 data-wow-delay="200ms"
                 data-wow-duration="1200ms"
@@ -733,8 +733,8 @@ class Index extends Component {
                   </div>
                 </div>
               </div> */}
-              {/* <!-- Team Block One --> */}
-              {/* <div
+        {/* <!-- Team Block One --> */}
+        {/* <div
                 class="col-lg-4 team-block-one wow fadeInUp"
                 data-wow-delay="200ms"
                 data-wow-duration="1200ms"
@@ -915,11 +915,12 @@ class Index extends Component {
                         <h3>Office Address</h3>
                         <ul>
                           <li>
-                            102, 1st floor, AjjeGowdru Nilaya,<br /> 7th A Cross Rd,<br />
+                            102, 1st floor, AjjeGowdru Nilaya,
+                            <br /> 7th A Cross Rd,
+                            <br />
                             Yelahanka Satellite Town, Yelahanka,
                             <br />
-                            Bengaluru,
-                            Karnataka 560064
+                            Bengaluru, Karnataka 560064
                           </li>
                         </ul>
                       </div>
