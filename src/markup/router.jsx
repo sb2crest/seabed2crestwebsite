@@ -28,6 +28,7 @@ import TeamDetails from './pages/team-details'
 import Team from './pages/team';
 import Testimonial1 from './element/testimonial1'
 import BackToTop from './layout/backToTop'
+import Payroll from './payroll/Payroll';
 
 
 class Router extends Component {
@@ -65,6 +66,7 @@ class Router extends Component {
                         <Route path='/team-details' component={TeamDetails} />
                         <Route path='/team' component={Team} />
                         <Route path='/test' component={Testimonial1} />
+                        <Route path='/payroll' component={Payroll} />
 
                     </Switch>
 

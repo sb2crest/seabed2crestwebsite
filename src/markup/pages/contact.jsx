@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/iframe-has-title */
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import Header from "../layout/header";
@@ -178,7 +179,7 @@ class Contact extends Component {
                   width="100%"
                   height="500"
                   id="gmap_canvas"
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d248706.23293304237!2d77.4354634775776!3d13.096975400000014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae19d7fe915333%3A0xcdb2c8559a5ac17!2sSeabed2Crest%20Technologies%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1693902576904!5m2!1sen!2sin"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3884.9112707345357!2d77.56406965480224!3d13.16799423910376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae19d7fe915333%3A0xcdb2c8559a5ac17!2sSeabed2Crest%20Technologies%20Private%20Limited!5e0!3m2!1sen!2sin!4v1707710141895!5m2!1sen!2sin"
                   frameborder="0"
                   scrolling="no"
                   marginheight="0"
@@ -227,9 +228,7 @@ class Contact extends Component {
                           <Link to={"/tel:+91 7349368311"}>+91 7349368311</Link>
                         </li>
                         <li>
-                          <Link to={"/tel:+91 8310227105"}>
-                            +91 8310227105
-                          </Link>
+                          <Link to={"/tel:+91 8310227105"}>+91 8310227105</Link>
                         </li>
                         <li>
                           <Link to={"/tel:+908(097)56476576"}> </Link>
@@ -245,9 +244,8 @@ class Contact extends Component {
                       <h3>Office Address</h3>
                       <ul>
                         <li>
-                          102, 1st floor, AjjeGowdru Nilaya, 7th A Cross Rd,
-                          Yelahanka Satellite Town, <br />
-                          Bengaluru, Karnataka 560064
+                          #584 near Suryodaya School, Hesaraghatta hobli,
+                          Rajanukunte,Bangalore North Karnataka - 560064
                         </li>
                       </ul>
                     </div>

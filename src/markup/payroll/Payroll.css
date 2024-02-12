@@ -1,0 +1,317 @@
+.login_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url(../../assets/images/bgpayroll.jpeg);
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.employeeId_section,
+.password_section {
+  margin-bottom: 2rem;
+  height: 50px;
+  width: 100%;
+}
+
+.login_container .login_container_section form {
+  padding: 2rem;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 10px;
+  z-index: 3;
+  background-color: #fff;
+  width: 300px;
+}
+form h1 {
+  background: -webkit-linear-gradient(
+    rgba(206, 142, 14, 1) 20%,
+    rgba(192, 40, 42, 1) 100%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 24px;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 2vw;
+}
+.login_button {
+  background: -webkit-linear-gradient(
+    left,
+    rgba(206, 142, 14, 1) 20%,
+    rgba(192, 40, 42, 1) 100%
+  );
+}
+.login_button:hover,
+.print_button:hover {
+  background: -webkit-linear-gradient(
+    left,
+    rgba(192, 40, 42, 1) 20%,
+    rgba(206, 142, 14, 1) 100%
+  );
+}
+.icon {
+  color: rgb(201, 86, 10);
+}
+
+.calender_section form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.print_button {
+  display: block;
+  background: -webkit-linear-gradient(
+    left,
+    rgba(206, 142, 14, 1) 20%,
+    rgba(192, 40, 42, 1) 100%
+  );
+  height: 50px;
+  width: 50%;
+}
+.print {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.print .calender{
+  margin-right: 2vw;
+}
+.footer {
+  text-align: end;
+  margin-top: 20px;
+}
+
+.border {
+  border-bottom: 2px solid #ccc;
+  margin: 20px auto;
+}
+
+.border p {
+  text-align: center;
+}
+
+.footer h5 {
+  margin: 0;
+  margin-right: 50px;
+}
+
+.footer p {
+  text-align: center;
+}
+
+.header1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  width: 95%;
+  border-bottom: 1px solid black;
+}
+
+.header .logo img {
+  width: 100px;
+  height: auto;
+}
+
+.header .content {
+  flex-grow: 1;
+  text-align: center;
+}
+
+.header .content h1 {
+  margin: 0;
+}
+
+.header .content p {
+  margin: 0;
+}
+
+.header .additional-content {
+  display: flex;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  height: 200px;
+}
+
+.details {
+  text-align: left;
+}
+
+.employee-summary {
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+  line-height: 2em;
+}
+
+.employee-summary h2 {
+  margin-top: 0;
+}
+
+.employee-summary1 {
+  display: flex;
+  align-items: left;
+}
+
+.card {
+  width: 350px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card h3 {
+  margin-left: -5em;
+}
+
+.card p {
+  margin-left: -5em;
+}
+
+.card-header {
+  padding: 20px;
+  background-color: #daf4de;
+  border-bottom: 1px dotted black;
+}
+
+.card-header1 {
+  display: flex;
+  align-items: baseline;
+}
+
+.card-body1 {
+  margin-left: 10vh;
+}
+
+.card-body {
+  padding: 20px;
+  line-height: 1.5em;
+}
+
+.card-body p {
+  margin: 0;
+}
+
+.additional-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  border-top: 1.5px dotted black;
+  border-radius: 5px;
+  padding: 20px;
+  margin-left: 20px;
+  width: 90%;
+  margin-left: 5vh;
+  line-height: 2em;
+}
+
+.left-details {
+  text-align: left;
+}
+
+.left-details1 {
+  text-align: left;
+  margin-left: -2em;
+}
+
+.right-details {
+  text-align: left;
+}
+
+.right-details1 {
+  text-align: left;
+  margin-left: -2em;
+}
+
+.additional-details .details p {
+  margin: 0;
+}
+
+.additional-details h2 {
+  margin-top: 0;
+}
+
+.dotted-border {
+  border-top: 2px dotted #ccc;
+  margin: 20px 0;
+}
+
+.main-container {
+  display: flex;
+  justify-content: space-around;
+  border: 5px solid #cec9c9;
+  margin-top: 30px;
+  line-height: 2em;
+}
+
+.main {
+  width: 80%;
+  margin-left: 17vh;
+}
+
+.earnings,
+.deductions {
+  display: flex;
+  text-align: left;
+}
+
+.earning,
+.deduction {
+  padding: 10px;
+}
+
+.amount {
+  flex: 1;
+  padding: 10px;
+  text-align: right;
+}
+
+.earning h3,.amount h3,.deduction h3 {
+  margin-top: 0;
+}
+
+.earning p,.amount p,.deduction p{
+  margin: 5px 0;
+}
+
+.total-container {
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.total-section {
+  display: flex;
+  justify-content: space-between;
+}
+
+.total-left {
+  padding: 10px;
+}
+
+.total-right {
+  padding: 20px;
+  text-align: right;
+}
+
+.total-section h4 {
+  margin-top: 0;
+}
+
+.total-section p {
+  margin: 5px 0;
+}
