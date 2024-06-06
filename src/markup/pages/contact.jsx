@@ -244,8 +244,7 @@ class Contact extends Component {
                       <h3>Office Address</h3>
                       <ul>
                         <li>
-                          #584 near Suryodaya School, Hesaraghatta hobli,
-                          Rajanukunte,Bangalore North Karnataka - 560064
+                        584, 1st floor, RD Rajanna Complex , Rajanukunte, Yelahanka Taluk, Bangalore North - 560064.
                         </li>
                       </ul>
                     </div>

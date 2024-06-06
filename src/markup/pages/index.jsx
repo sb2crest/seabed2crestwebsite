@@ -915,12 +915,11 @@ class Index extends Component {
                         <h3>Office Address</h3>
                         <ul>
                           <li>
-                            102, 1st floor, AjjeGowdru Nilaya,
-                            <br /> 7th A Cross Rd,
+                           584, 1st floor, RD Rajanna Complex ,
                             <br />
-                            Yelahanka Satellite Town, Yelahanka,
-                            <br />
-                            Bengaluru, Karnataka 560064
+                            Rajanukunte, Yelahanka Taluk,
+                             <br />
+                             Bangalore North - 560064.
                           </li>
                         </ul>
                       </div>
